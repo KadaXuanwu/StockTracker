@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StockTracker (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "StockTracker (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
